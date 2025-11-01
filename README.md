@@ -1,1 +1,1 @@
-# Teloxy
+# Teloxy Proxy Finder 🔎
